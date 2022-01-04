@@ -1,7 +1,2 @@
-# vue-mobx-mvvm
-> Mvvm for vue mobx.
-
-
-## resources:
-+ https://github.com/vuejs/vue-class-component
-+ https://github.com/mobxjs/mobx-vue
+# cra-template-typescript4
+> cra template for typescript + craco + react-script@4.0.3.
